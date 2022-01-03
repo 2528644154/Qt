@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/myImage">
+        <file>images/about.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/exit.png</file>
+        <file>images/new.png</file>
+        <file>images/next.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/previous.png</file>
+        <file>images/redo.png</file>
+        <file>images/save.png</file>
+        <file>images/saveAs.png</file>
+        <file>images/undo.png</file>
+        <file>images/00003.ico</file>
+        <file>images/00018.ico</file>
+        <file>images/00019.ico</file>
+        <file>images/00021.ico</file>
+        <file>images/00022.ico</file>
+        <file>images/00023.ico</file>
+        <file>images/00041.ico</file>
+        <file>images/00043.ico</file>
+        <file>images/00749.ico</file>
+        <file>images/00752.ico</file>
+        <file>images/00760.ico</file>
+        <file>images/01074.ico</file>
+        <file>images/07919.ico</file>
+        <file>images/07920.ico</file>
+    </qresource>
+</RCC>
