@@ -33,5 +33,5 @@
 
 ![在这里插入图片描述](https://github.com/zkangHUST/NoteBook/blob/master/documents/主界面.png)
 # 3. 源码下载
-https://github.com/zkangHUST/NoteBook
+
 
